@@ -1,12 +1,12 @@
 /* Add CSS Styling */
 
 /* Solution 1*/
-div p{
+/* div p{
     background-color: rgb(255, 248, 51);
     color: rgb(255, 0, 0);
     font-size: 20px;
     text-align: center;
-}
+} */
 
 /*Solution 2*/
 
@@ -16,3 +16,12 @@ div p{
     font-size: 20px;
     text-align: center;
 } */
+
+/*Solution 3*/
+
+div .text{
+    background-color: rgb(255, 248, 51);
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
